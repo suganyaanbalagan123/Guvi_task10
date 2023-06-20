@@ -8,6 +8,7 @@
 
 **1.2 Uploaded the files in the guvi-today
 **
+
 ![10 3](https://github.com/suganyaanbalagan123/Guvi_task10/assets/133192593/83813879-108c-4683-bc96-a000c0e23a3c)
 
 **1.3 Selected the target bucket to receive the log files
@@ -27,6 +28,7 @@
 
 **2.1 Creating the instance with amazon linux-apche  with the name first instance
 *
+
 ![task11](https://github.com/suganyaanbalagan123/Guvi_task10/assets/133192593/d5782f2b-b6a4-4054-ae42-2d5c1d60695d)
 
 **Launching first instance**
